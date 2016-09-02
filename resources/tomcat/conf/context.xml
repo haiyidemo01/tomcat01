@@ -16,7 +16,7 @@
   -->
 
 <Context>
-  <!--this is test by haiyi-->
+  <!--this is test by haiyi -->
     <Resource name="jdbc/haierv3"
             auth="Container"
             type="javax.sql.DataSource"
