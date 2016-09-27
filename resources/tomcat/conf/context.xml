@@ -23,7 +23,7 @@
             username="root"
             password="root1234"
             driverClassName="com.mysql.jdbc.Driver"
-            url="jdbc:mysql://169.46.146.210:3306/rmas"
+            url="jdbc:mysql://169.46.146.210:3306/rmas?characterEncoding=gbk"
             factory="org.objectweb.jotm.datasource.DataSourceFactory"/>							    
 					
   <Resource name="UserTransaction" 
